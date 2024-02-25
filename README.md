@@ -8,8 +8,9 @@ for Windows system
 4) run this command **venv\Scripts\activate**
 5) run this command **cd .\weather_api_service\**
 6) run this command **pip install -r requirements.txt**
-7) run this command set FLASK_APP=__init__.py>> $env:FLASK_APP = "__init__.py"
-8) flask run
+7) run this command set FLASK_APP=__init__.py
+8) run this command $env:FLASK_APP = "__init__.py"
+9) run this command flask run
 
 login api call
 ------------------------
