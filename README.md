@@ -24,10 +24,10 @@ body -> {
 country Api call
 --------------------------
 rest type -> GET
-url -> http://127.0.0.1:5000/countries/{country_name}
+url -> http://127.0.0.1:5000/countries
 authorization -> bearer token
 
-example => http://127.0.0.1:5000/countries/Andorra
+example => http://127.0.0.1:5000/countries
 
 city Api call
 --------------------------
